@@ -1,13 +1,9 @@
 ---
-title: Flutter单屏启动动画介绍页面制作【附视频】
+title: Flutter单屏启动动画介绍页面制作
 date: 2020-04-18 15:00:38
 tags:
 toc: true
 ---
-Flutter单屏启动动画介绍页面制作【附视频】
-本文为本人原创，
-
-效果：![image](http://upload-images.jianshu.io/upload_images/14347887-cb96fed106fb127a.gif?imageMogr2/auto-orient/strip)
 视频链接：https://www.bilibili.com/video/av46276578/?p=2
  这节课主要讲的是一个单屏的启动动画，其实很简单的，之前以为大家都会就没讲，然后有位小伙伴私聊我，说让我讲一下，因为很多软件用的都是单屏或者单屏下面还有跳过按钮倒计时数字啥的，这个大家随机应变应该会感觉很简单的，看完我的这些教程的朋友，
 
@@ -56,7 +52,9 @@ Scaffold(
       ),
     )
 ```
-大概就是介个样子啦，那我们就来把源码呈上来了：
+大概就是介个样子啦。
+
+# 代码
 main.dart
 ```
 import 'package:flutter/material.dart';
@@ -141,3 +139,4 @@ class NewPage extends StatelessWidget {
   }
 }
 ```
+效果：![image](http://upload-images.jianshu.io/upload_images/14347887-cb96fed106fb127a.gif?imageMogr2/auto-orient/strip)
