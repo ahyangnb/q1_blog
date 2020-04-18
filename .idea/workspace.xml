@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a928d2b-a5b8-4999-a3b5-325a0bb8dd86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_posts/Flutter单屏启动动画介绍页面制作.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Flutter单屏启动动画介绍页面制作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2020/04/18/Flutter单屏启动动画介绍页面制作/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2020/04/18/Flutter单屏启动动画介绍页面制作/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2020/04/18/flutter登陆界面TextField的焦点及动作/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2020/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2020/04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2020/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/flutter登陆界面TextField的焦点及动作.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/flutter登陆TextField的焦点及动作.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,26 +27,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Flutter单屏启动动画介绍页面制作.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new.sh">
+        <entry file="file://$PROJECT_DIR$/source/_posts/flutter登陆TextField的焦点及动作.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/flutter登陆界面TextField的焦点及动作.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/轻量便捷路由管理方案NavRouter.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="134" column="6" lean-forward="true" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -94,6 +111,10 @@
         <option value="$PROJECT_DIR$/update.sh" />
         <option value="$PROJECT_DIR$/source/_posts/Flutter单屏启动动画介绍页面制作.md" />
         <option value="$PROJECT_DIR$/source/_posts/flutter登陆界面TextField的焦点及动作.md" />
+        <option value="$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md" />
+        <option value="$PROJECT_DIR$/source/_posts/用NestedScrollView的项目必须知道的坑.md" />
+        <option value="$PROJECT_DIR$/source/_posts/用NestedScrollView必须知道的坑.md" />
+        <option value="$PROJECT_DIR$/source/_posts/轻量便捷路由管理方案NavRouter.md" />
       </list>
     </option>
   </component>
@@ -191,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587194130255</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit update 4">
+      <created>1587194475492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587194475492</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -226,7 +254,8 @@
     <MESSAGE value="commit update 1" />
     <MESSAGE value="commit update 2" />
     <MESSAGE value="commit update 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit update 3" />
+    <MESSAGE value="commit update 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit update 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/hexo/default_config.js">
@@ -299,13 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serve.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -351,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Flutter单屏启动动画介绍页面制作.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -365,10 +380,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/flutter登陆界面TextField的焦点及动作.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="134" column="6" lean-forward="true" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Flutter单屏启动动画介绍页面制作.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/flutter登陆TextField的焦点及动作.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/用NestedScrollView必须知道的坑.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2252">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/轻量便捷路由管理方案NavRouter.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
