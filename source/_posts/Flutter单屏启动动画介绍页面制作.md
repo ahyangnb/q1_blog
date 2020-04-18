@@ -139,4 +139,5 @@ class NewPage extends StatelessWidget {
   }
 }
 ```
-效果：![image](http://upload-images.jianshu.io/upload_images/14347887-cb96fed106fb127a.gif?imageMogr2/auto-orient/strip)
+# 效果：
+![image](http://upload-images.jianshu.io/upload_images/14347887-cb96fed106fb127a.gif?imageMogr2/auto-orient/strip)
