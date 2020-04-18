@@ -1,5 +1,5 @@
 ---
-title: 最简单轻量便捷路由管理方案NavRouter
+title: 轻量便捷路由管理方案NavRouter
 date: 2020-04-18 15:31:38
 tags:
 toc: true
