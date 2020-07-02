@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a928d2b-a5b8-4999-a3b5-325a0bb8dd86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md" afterDir="false" />
-    </list>
+    <list default="true" id="7a928d2b-a5b8-4999-a3b5-325a0bb8dd86" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -47,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/轻量便捷路由管理方案NavRouter.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-364">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -234,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587195458423</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit update 7">
+      <created>1587195667178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587195667178</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -242,7 +247,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.31831187" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.31831187" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -252,7 +257,7 @@
       <window_info anchor="bottom" id="Run" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32962447" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32962447" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -272,7 +277,8 @@
     <MESSAGE value="commit update 4" />
     <MESSAGE value="commit update 5" />
     <MESSAGE value="commit update 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit update 6" />
+    <MESSAGE value="commit update 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit update 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/hexo/default_config.js">
@@ -428,14 +434,14 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/轻量便捷路由管理方案NavRouter.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-364">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/flutter实现文件读写篇.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
