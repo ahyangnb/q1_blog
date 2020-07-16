@@ -34,19 +34,7 @@
 <p>头部固定解决方案：（不是唯一的）</p>
 <p>既然都说了是有内外两个控制器那我们一定有办法来获取并使用他的内部控制器，</p>
 <p>第一步：（尝试封装body为有状态类来从context中取到内控制器）</p>
-<p>@override</p>
-<p>  Widget build(BuildContext context) {</p>
-<pre><code>return new Scaffold(
-
-  body: new NestedScrollView(
-
-      controller: _ctl,
-
-      headerSliverBuilder: _sliverBuilder,
-
-      body: new BodyView(widget.widgets, type)),
-
-);</code></pre><p>  }</p>
+<figure class="highlight dart"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@override</span></span><br><span class="line"></span><br><span class="line">  Widget build(BuildContext context) &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">new</span> Scaffold(</span><br><span class="line">    </span><br><span class="line">      body: <span class="keyword">new</span> NestedScrollView(</span><br><span class="line">    </span><br><span class="line">          controller: _ctl,</span><br><span class="line">    </span><br><span class="line">          headerSliverBuilder: _sliverBuilder,</span><br><span class="line">    </span><br><span class="line">          body: <span class="keyword">new</span> BodyView(widget.widgets, type)),</span><br><span class="line">    </span><br><span class="line">    );</span><br><span class="line"></span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
 <p>BodyView就是我们封装的，</p>
 <p>class BodyView extends StatefulWidget {</p>
 <p>  final List<Widget> widgets;</p>
@@ -102,8 +90,7 @@ _innerC = primaryScrollController.controller;</code></pre><p>  }</p>
 <p>那么我这个需求还有没有解决方案了？</p>
 <p>当然是有的：</p>
 <p>点击锚点跳转解决方案</p>
-<p>第一步（直接使用外部控制器jumpTo）</p>
-<p>@override</p>
+<h1 id="第一步（直接使用外部控制器jumpTo）"><a href="#第一步（直接使用外部控制器jumpTo）" class="headerlink" title="第一步（直接使用外部控制器jumpTo）"></a>第一步（直接使用外部控制器jumpTo）</h1><p>@override</p>
 <p>void initState() {</p>
 <p>  super.initState();</p>
 <p>  tabs = [‘商品’, ‘评价’, ‘详情’];</p>

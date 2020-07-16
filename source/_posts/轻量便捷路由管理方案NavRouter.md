@@ -6,7 +6,7 @@ toc: true
 ---
 【本文待优化】
 
-大家好，我是CrazyQ1，今天给大家推荐一个路由管理方案，用的非常不错的，叫nav_router。
+今天给大家推荐一个路由管理方案，用的非常不错的，叫nav_router。
 
 项目地址是：[https://github.com/fluttercandies/nav_router](https://github.com/fluttercandies/nav_router)
 
